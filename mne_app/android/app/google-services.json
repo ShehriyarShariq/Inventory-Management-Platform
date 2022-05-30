@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756256701515",
+    "project_id": "mne-app-596f1",
+    "storage_bucket": "mne-app-596f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756256701515:android:8cc5c717c561ab70cc61ce",
+        "android_client_info": {
+          "package_name": "com.example.mne_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756256701515-mej3q369a06fv9nbr7e8dbmomtja38vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSkHc_Bd2oJY1L5UlkIyQayJ0H6dKY5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756256701515-mej3q369a06fv9nbr7e8dbmomtja38vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
